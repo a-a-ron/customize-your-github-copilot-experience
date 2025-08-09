@@ -20,6 +20,20 @@
       ]
     },
     {
+      "id": "fastapi-rest-api",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Learn to build and test REST APIs using the FastAPI framework in Python.",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2025-08-16",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
       "id": "games-in-python",
       "title": "Games in Python",
       "description": "Creating games using Python",
